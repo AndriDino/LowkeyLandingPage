@@ -1,5 +1,6 @@
 # Lowkey Lifestyle, About the Brand Website
 
-## This site is build using emmet and a css style guide made with scss
+ This site is built using emmet and a css style guide made with scss
+
 
 
